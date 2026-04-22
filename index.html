@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="tet">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=yes">
+    <title>Konvite Aniversáriu | Elegante & Femininu</title>
+    <!-- Google Font ba visual elegante -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600;700&family=Quicksand:wght@300;400;500&display=swap" rel="stylesheet">
+    <!-- Font Awesome ba íkone -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <!-- AOS (Animate On Scroll) Library -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css">
+    <!-- CSS Prinsipál -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Partikel Background -->
+    <div class="particles-background" id="particles"></div>
+    
+    <!-- Confetti Container -->
+    <div class="confetti-container" id="confettiContainer"></div>
+    
+    <div class="invitation-wrapper">
+        <!-- Header / Seksaun Hero ho Foto -->
+        <header class="hero">
+            <div class="hero-content">
+                <!-- Foto Ryana Duta Lopes -->
+                <div class="birthday-photo-container" data-aos="zoom-in" data-aos-duration="1200">
+                    <div class="birthday-photo floating">
+                        <div class="photo-frame">
+                            <img src="ryana.png" alt="Ryana Duta Lopes" id="birthdayPhoto">
+                        </div>
+                        <!-- Crown / Mahkota kecil -->
+                    </div>
+                </div>
+                <div class="flower-divider" data-aos="fade-down" data-aos-delay="200">✿ ✿ ✿</div>
+                <h1 data-aos="fade-up" data-aos-delay="400">Konvite Aniversáriu</h1>
+                <p class="birthday-name" data-aos="fade-up" data-aos-delay="600">Ryana Duta Lopes</p>
+                <p class="hero-subtitle" data-aos="fade-up" data-aos-delay="800">Selebra loron espesiál hamutuk ho ita hotu</p>
+                <div class="flower-divider" data-aos="fade-down" data-aos-delay="1000">✿ ✿ ✿</div>
+            </div>
+        </header>
+
+        <!-- Kontedú Prinsipál -->
+        <main class="container">
+            <!-- Detallu Eventu -->
+            <section class="card event-details" data-aos="fade-right" data-aos-duration="800">
+                <h2><i class="fas fa-calendar-alt icon-soft fa-spin"></i> Detallu Eventu</h2>
+                <div class="details-grid">
+                    <div class="detail-item hover-scale">
+                        <span class="detail-label"><i class="far fa-calendar-check"></i> Loron</span>
+                        <span class="detail-value" id="eventDateDisplay">Domingo, 26 Abríl 2026</span>
+                    </div>
+                    <div class="detail-item hover-scale">
+                        <span class="detail-label"><i class="far fa-clock"></i> Oras</span>
+                        <span class="detail-value" id="eventTimeDisplay">19:00 OTL - Remata</span>
+                    </div>
+                    <div class="detail-item detail-item-full hover-scale">
+                        <span class="detail-label"><i class="fas fa-map-pin"></i> Fatin</span>
+                        <span class="detail-value" id="eventLocationDisplay">Suai Loro Beach, Suai, Timor-Leste</span>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Kontador Tempu -->
+            <section class="card countdown-section" data-aos="fade-left" data-aos-duration="800">
+                <h2><i class="fas fa-hourglass-half icon-soft fa-spin"></i> Konta Ba Loron Feliz</h2>
+                <div id="countdown" class="countdown-container">
+                    <div class="countdown-item pulse-animation">
+                        <span id="days" class="number">00</span>
+                        <span class="label">Loron</span>
+                    </div>
+                    <div class="countdown-item pulse-animation" style="animation-delay: 0.2s;">
+                        <span id="hours" class="number">00</span>
+                        <span class="label">Oras</span>
+                    </div>
+                    <div class="countdown-item pulse-animation" style="animation-delay: 0.4s;">
+                        <span id="minutes" class="number">00</span>
+                        <span class="label">Minutu</span>
+                    </div>
+                    <div class="countdown-item pulse-animation" style="animation-delay: 0.6s;">
+                        <span id="seconds" class="number">00</span>
+                        <span class="label">Segundu</span>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Mapa Lokalizasaun Suai Loro Beach -->
+            <section class="card map-section" data-aos="fade-right" data-aos-duration="800">
+                <h2><i class="fas fa-map-marker-alt icon-soft fa-bounce"></i> Mapa Fatin</h2>
+                <div class="map-responsive hover-glow">
+                    <iframe 
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3055.1178469460338!2d125.27636427368579!3d-9.351299090723442!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2cfeff787d4bbc91%3A0xe91c089a705d082!2sSuai%20Loro%20Beach!5e1!3m2!1sen!2stl!4v1776822167328!5m2!1sen!2stl" 
+                        width="100%" 
+                        height="250" 
+                        style="border:0;" 
+                        allowfullscreen="" 
+                        loading="lazy" 
+                        referrerpolicy="no-referrer-when-downgrade"
+                        title="Mapa Suai Loro Beach">
+                    </iframe>
+                </div>
+                <p class="map-caption"><i class="fas fa-location-dot"></i> Suai Loro Beach, Suai, Timor-Leste</p>
+            </section>
+
+            <!-- Konfirmasaun Prezensa (WhatsApp) -->
+            <section class="card rsvp-section" data-aos="fade-left" data-aos-duration="800">
+                <h2><i class="fas fa-envelope-open-text icon-soft fa-shake"></i> Konfirmasaun Prezensa</h2>
+                <form id="rsvpForm" class="rsvp-form">
+                    <div class="form-group">
+                        <label for="guestName"><i class="fas fa-user"></i> Naran Kompletu</label>
+                        <input type="text" id="guestName" name="guestName" placeholder="Ez: Kitu Dev" required>
+                    </div>
+                    <div class="form-group">
+                        <label><i class="fas fa-check-circle"></i> Prezensa</label>
+                        <div class="radio-group">
+                            <label class="radio-label">
+                                <input type="radio" name="attendance" value="Ha'u sei mai" required> 
+                                <span class="radio-custom"></span>
+                                Ha'u sei mai
+                            </label>
+                            <label class="radio-label">
+                                <input type="radio" name="attendance" value="Ha'u la bele mai"> 
+                                <span class="radio-custom"></span>
+                                Ha'u la bele mai
+                            </label>
+                        </div>
+                    </div>
+                    <button type="submit" class="btn-submit shine-effect">
+                        <span>Haruka liu WhatsApp</span>
+                        <i class="fab fa-whatsapp"></i>
+                    </button>
+                    <div id="formFeedback" class="form-feedback"></div>
+                </form>
+            </section>
+
+            <!-- Rodapé -->
+            <footer class="footer" data-aos="fade-up" data-aos-duration="800">
+                <p class="footer-text">Ho domin no ksolok,</p>
+                <p class="signature">~ Ryana Duta Lopes ~</p>
+                <div class="flower-divider small">✿</div>
+                <!-- Social Icons dengan animasi -->
+            </footer>
+        </main>
+    </div>
+
+    <!-- Balon animasi -->
+    <div class="balloons-container">
+        <div class="balloon balloon1"></div>
+        <div class="balloon balloon2"></div>
+        <div class="balloon balloon3"></div>
+        <div class="balloon balloon4"></div>
+        <div class="balloon balloon5"></div>
+    </div>
+
+    <!-- JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
