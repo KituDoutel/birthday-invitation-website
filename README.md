@@ -6,7 +6,7 @@
 
 ### ✿ Elegant Birthday Invitation Website ✿
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Website-ffb3c6?style=for-the-badge&logo=github)](https://kitudoutel.github.io/konvite-ryana)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Website-ffb3c6?style=for-the-badge&logo=github)](https://kitudoutel.github.io/birthday-invitation-website)
 [![Made by KituDoutel](https://img.shields.io/badge/Made%20by-KituDoutel-ffc8dd?style=for-the-badge&logo=github)](https://github.com/KituDoutel)
 [![For Client](https://img.shields.io/badge/For-Ryana%20Duta%20Lopes-d6c3d6?style=for-the-badge&logo=heart)](https://wa.me/67076309628)
 [![License](https://img.shields.io/badge/License-MIT-b8e0d4?style=for-the-badge)](LICENSE)
@@ -14,7 +14,10 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=22&duration=3000&pause=1000&color=E6B8C6&center=true&vCenter=true&width=500&lines=Celebrate+This+Special+Day+Together;April+27+2026+•+7:00+PM;Suai+Loro+Beach%2C+Timor-Leste;Confirm+Your+Attendance!+🎉" alt="Typing SVG" />
+  <b>🎉 Celebrate This Special Day Together! 🎉</b><br>
+  <b>📅 April 27, 2026 • 7:00 PM</b><br>
+  <b>📍 Suai Loro Beach, Timor-Leste</b><br>
+  <b>💬 Confirm Your Attendance!</b>
 </p>
 
 </div>
@@ -93,41 +96,36 @@ This birthday invitation website was created with love for **Ryana Duta Lopes** 
 
 ## 🎯 Implemented Features
 
-<div align="center">
-
-| ✅ Feature | 📝 Description | 🎨 Style |
-|-----------|---------------|----------|
-| **Responsive Design** | Adapts to all screens (mobile, tablet, desktop) | CSS Media Queries |
-| **Countdown Timer** | Real-time countdown (days, hours, minutes, seconds) | JavaScript |
-| **WhatsApp Confirmation** | Direct RSVP via WhatsApp with formatted message | WhatsApp API |
-| **Interactive Map** | Google Maps of Suai Loro Beach | Google Maps Embed |
-| **Particle Animation** | Floating particles in the background | JavaScript + CSS |
-| **Confetti Effect** | Confetti appears on RSVP and when event arrives | JavaScript Canvas |
-| **Floating Photo** | Client photo with floating effect | CSS Animation |
-| **Card Hover Effects** | Cards lift up on hover | CSS Transform |
-| **Text Shimmer** | Title with glow effect | CSS Text Shadow |
-| **Animated Icons** | Icons with animations (spin, bounce, shake) | Font Awesome + CSS |
-
-</div>
+| ✅ Feature | 📝 Description |
+|-----------|---------------|
+| **Responsive Design** | Adapts to all screens (mobile, tablet, desktop) |
+| **Countdown Timer** | Real-time countdown (days, hours, minutes, seconds) |
+| **WhatsApp RSVP** | Direct confirmation via WhatsApp with formatted message |
+| **Interactive Map** | Google Maps of Suai Loro Beach |
+| **Particle Animation** | Floating particles in the background |
+| **Confetti Effect** | Confetti appears on RSVP and when event arrives |
+| **Floating Photo** | Client photo with floating effect |
+| **Card Hover Effects** | Cards lift up on hover |
+| **Text Shimmer** | Title with glow effect |
+| **Animated Icons** | Icons with animations (spin, bounce, shake) |
+| **Floating Balloons** | 5 pastel balloons floating in background |
+| **Crown Animation** | Crown above photo with bounce effect |
 
 ---
 
 ## 📸 Project Screenshots
 
-<div align="center">
-
 ### 🖥️ Desktop View
 
-<img src="https://via.placeholder.com/800x500/ffd0dd/9f6d7e?text=Desktop+View+-+Ryana+Invitation" alt="Desktop View" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(200,150,170,0.2); max-width: 100%;">
+<img src="ryana.png" alt="Desktop View - Ryana Invitation" width="400" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(200,150,170,0.2);">
 
-<br>
-<br>
+> *Note: Full desktop screenshot will be updated soon*
 
 ### 📱 Mobile View
 
-<img src="https://via.placeholder.com/300x600/ffd0dd/9f6d7e?text=Mobile+View+-+Ryana+Invitation" alt="Mobile View" style="border-radius: 30px; box-shadow: 0 10px 30px rgba(200,150,170,0.2);">
+<img src="ryana.png" alt="Mobile View - Ryana Invitation" width="200" style="border-radius: 30px; box-shadow: 0 10px 30px rgba(200,150,170,0.2);">
 
-</div>
+> *Note: Full mobile screenshot will be updated soon*
 
 ---
 
@@ -135,7 +133,7 @@ This birthday invitation website was created with love for **Ryana Duta Lopes** 
 
 <div align="center">
 
-### 🔗 [Click to View Live Website](https://kitudoutel.github.io/konvite-ryana)
+### 🔗 [Click to View Live Website](https://kitudoutel.github.io/birthday-invitation-website)
 
 *This website is hosted on **GitHub Pages** - Free Forever!*
 
@@ -144,3 +142,112 @@ This birthday invitation website was created with love for **Ryana Duta Lopes** 
 ---
 
 ## 📁 Project Structure
+
+### File Descriptions:
+
+| File | Description | Size |
+|------|-------------|------|
+| `index.html` | Main webpage structure | ~15 KB |
+| `style.css` | All styling and animations | ~25 KB |
+| `script.js` | Countdown, RSVP, particles, confetti | ~10 KB |
+| `ryana.png` | Client profile photo | ~100 KB |
+
+---
+
+## 🎨 Color Palette
+
+| Color | Code | Description |
+|-------|------|-------------|
+| <img src="https://via.placeholder.com/20/fbeef2/fbeef2" width="20" height="20"> | `#fbeef2` | Background Gradient 1 |
+| <img src="https://via.placeholder.com/20/f2e3e9/f2e3e9" width="20" height="20"> | `#f2e3e9` | Background Gradient 2 |
+| <img src="https://via.placeholder.com/20/e6b8c6/e6b8c6" width="20" height="20"> | `#e6b8c6` | Primary Accent (Pink) |
+| <img src="https://via.placeholder.com/20/d6c3d6/d6c3d6" width="20" height="20"> | `#d6c3d6` | Secondary Accent (Lavender) |
+| <img src="https://via.placeholder.com/20/fad4c0/fad4c0" width="20" height="20"> | `#fad4c0` | Tertiary Accent (Peach) |
+| <img src="https://via.placeholder.com/20/ffffffd9/ffffffd9" width="20" height="20"> | `#ffffffd9` | Card Background |
+| <img src="https://via.placeholder.com/20/5e4b56/5e4b56" width="20" height="20"> | `#5e4b56` | Main Text Color |
+
+---
+
+## 💼 Developer Portfolio
+
+<div align="center">
+
+### 👨‍💻 KituDoutel - Web Developer
+
+| | |
+|:---:|:---|
+| **📍 Location** | Timor-Leste |
+| **💻 Specialization** | Frontend Development, UI/UX Design |
+| **🛠️ Skills** | HTML, CSS, JavaScript, Responsive Design |
+| **🎯 Services** | Invitation Websites, Landing Pages, Personal Websites |
+
+### 🔗 Contact & Portfolio
+
+[![GitHub](https://img.shields.io/badge/GitHub-KituDoutel-181717?style=for-the-badge&logo=github)](https://github.com/KituDoutel)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/yournumber)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+</div>
+
+---
+
+## 🌟 Services Offered
+
+| 💼 Service | 📝 Description |
+|------------|---------------|
+| 🎂 **Invitation Websites** | Custom invitation websites for birthdays, weddings, etc. |
+| 🏢 **Landing Pages** | Professional landing pages for businesses or events |
+| 👤 **Personal Websites** | Online portfolios for individuals |
+| 📱 **Responsive Design** | Websites that adapt to all devices |
+| 🎨 **UI/UX Design** | Beautiful and user-friendly interface design |
+
+---
+
+## 📞 Interested in Similar Services?
+
+<div align="center">
+
+### 💚 Want a Custom Invitation Website Like This?
+
+If you want a personalized invitation website like this for your special event, contact me!
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Order%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/yournumber)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github)](https://github.com/KituDoutel)
+
+</div>
+
+---
+
+## 🚀 How to Deploy Your Own
+
+### Option 1: GitHub Pages (Free) ⭐ Recommended
+
+1. Fork or clone this repository
+2. Go to repository **Settings** → **Pages**
+3. Under **Branch**, select `main` and click **Save**
+4. Your website will be live at: `https://[username].github.io/[repo-name]`
+
+### Option 2: Netlify (Free)
+
+1. Go to [Netlify](https://netlify.com)
+2. Drag & drop the project folder
+3. Get a URL like: `https://cool-name.netlify.app`
+
+### Option 3: Vercel (Free)
+
+1. Go to [Vercel](https://vercel.com)
+2. Import GitHub repository
+3. Click **Deploy**
+
+---
+
+## ✏️ How to Customize
+
+### Change Event Details
+
+Edit in `index.html`:
+```html
+<span class="detail-value" id="eventDateDisplay">Monday, April 27, 2026</span>
+<span class="detail-value" id="eventTimeDisplay">19:00 - Until Finish</span>
+<span class="detail-value" id="eventLocationDisplay">Suai Loro Beach, Suai, Timor-Leste</span>
