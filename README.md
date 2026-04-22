@@ -117,13 +117,13 @@ This birthday invitation website was created with love for **Ryana Duta Lopes** 
 
 ### 🖥️ Desktop View
 
-<img src="ryana.png" alt="Desktop View - Ryana Invitation" width="400" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(200,150,170,0.2);">
+<img src="Desktop.png" alt="Desktop View - Ryana Invitation" width="400" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(200,150,170,0.2);">
 
 > *Note: Full desktop screenshot will be updated soon*
 
 ### 📱 Mobile View
 
-<img src="ryana.png" alt="Mobile View - Ryana Invitation" width="200" style="border-radius: 30px; box-shadow: 0 10px 30px rgba(200,150,170,0.2);">
+<img src="Mobile.png" alt="Mobile View - Ryana Invitation" width="200" style="border-radius: 30px; box-shadow: 0 10px 30px rgba(200,150,170,0.2);">
 
 > *Note: Full mobile screenshot will be updated soon*
 
@@ -151,20 +151,6 @@ This birthday invitation website was created with love for **Ryana Duta Lopes** 
 | `style.css` | All styling and animations | ~25 KB |
 | `script.js` | Countdown, RSVP, particles, confetti | ~10 KB |
 | `ryana.png` | Client profile photo | ~100 KB |
-
----
-
-## 🎨 Color Palette
-
-| Color | Code | Description |
-|-------|------|-------------|
-| <img src="https://via.placeholder.com/20/fbeef2/fbeef2" width="20" height="20"> | `#fbeef2` | Background Gradient 1 |
-| <img src="https://via.placeholder.com/20/f2e3e9/f2e3e9" width="20" height="20"> | `#f2e3e9` | Background Gradient 2 |
-| <img src="https://via.placeholder.com/20/e6b8c6/e6b8c6" width="20" height="20"> | `#e6b8c6` | Primary Accent (Pink) |
-| <img src="https://via.placeholder.com/20/d6c3d6/d6c3d6" width="20" height="20"> | `#d6c3d6` | Secondary Accent (Lavender) |
-| <img src="https://via.placeholder.com/20/fad4c0/fad4c0" width="20" height="20"> | `#fad4c0` | Tertiary Accent (Peach) |
-| <img src="https://via.placeholder.com/20/ffffffd9/ffffffd9" width="20" height="20"> | `#ffffffd9` | Card Background |
-| <img src="https://via.placeholder.com/20/5e4b56/5e4b56" width="20" height="20"> | `#5e4b56` | Main Text Color |
 
 ---
 
@@ -216,29 +202,6 @@ If you want a personalized invitation website like this for your special event, 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github)](https://github.com/KituDoutel)
 
 </div>
-
----
-
-## 🚀 How to Deploy Your Own
-
-### Option 1: GitHub Pages (Free) ⭐ Recommended
-
-1. Fork or clone this repository
-2. Go to repository **Settings** → **Pages**
-3. Under **Branch**, select `main` and click **Save**
-4. Your website will be live at: `https://[username].github.io/[repo-name]`
-
-### Option 2: Netlify (Free)
-
-1. Go to [Netlify](https://netlify.com)
-2. Drag & drop the project folder
-3. Get a URL like: `https://cool-name.netlify.app`
-
-### Option 3: Vercel (Free)
-
-1. Go to [Vercel](https://vercel.com)
-2. Import GitHub repository
-3. Click **Deploy**
 
 ---
 
