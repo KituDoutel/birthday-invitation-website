@@ -62,7 +62,7 @@ This birthday invitation website was created with love for **Ryana Duta Lopes** 
 | **👑 Name** | Ryana Duta Lopes |
 | **📅 Birthday** | April 27, 2026 |
 | **📍 Location** | Suai Loro Beach, Timor-Leste |
-| **💬 Contact** | [+670 7630 9628](https://wa.me/67076309628) |
+| **💬 Contact** | [+670 7828 0480](https://wa.me/67078280480) |
 
 </div>
 
@@ -170,8 +170,8 @@ This birthday invitation website was created with love for **Ryana Duta Lopes** 
 ### 🔗 Contact & Portfolio
 
 [![GitHub](https://img.shields.io/badge/GitHub-KituDoutel-181717?style=for-the-badge&logo=github)](https://github.com/KituDoutel)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/yournumber)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/+67078280480)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akitudoutel24@gmail.com)
 
 </div>
 
@@ -197,8 +197,8 @@ This birthday invitation website was created with love for **Ryana Duta Lopes** 
 
 If you want a personalized invitation website like this for your special event, contact me!
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Order%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/yournumber)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Order%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+67078280480)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akitudoutel24@email.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github)](https://github.com/KituDoutel)
 
 </div>
